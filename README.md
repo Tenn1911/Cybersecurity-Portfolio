@@ -3,12 +3,11 @@ Welcome to my central repository for cybersecurity projects, certification labs,
 ## Certification Roadmap
 Tracking my progress through professional certifications and specialized training.
 
-| Certification | Provider | Status | Project Folder |
-| :--- | :--- | :--- | :--- |
-| **Google Cybersecurity Professional** | Google | Certified | [`/google-cybersecurity`](#) |
-| **CompTIA Network+** | CompTIA | Certified | [`/network-plus`](#) |
-| **Security Analyst Level 1** | TryHackMe | In Progress | [`/sal-1`](#) |
-| **Security+** | CompTIA | In Progress | [`/security-plus`](#) |
+| Certification | Provider | Status |
+| :--- | :--- | :--- |
+| **Google Cybersecurity Professional** | Google | Certified | 
+| **CompTIA Network+** | CompTIA | Certified | 
+| **Security+** | CompTIA | Certified |
 
 ## Tech Stack & Tools
 A collection of tools and environments I use for security analysis and infrastructure management.
